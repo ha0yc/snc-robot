@@ -55,6 +55,9 @@ Here is a list and description of the different arguments to use for the script:
 
 <b>--num-retries</b>
 * If the bot fails for some reason, it will retry any number of times or until successful
+
+
+python main.py --username xxx@xxx.com --password ******* --url https://www.nike.com/cn/launch/t/***/ --shoe-size 43 --page-load-timeout 30 --select-payment true --purchase true
     
  
    
